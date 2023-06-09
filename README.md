@@ -11,4 +11,4 @@ Instalación y configuración de entorno de desarrollo
 
 ## Funcionamiento 
 
-![](img/carro.jpg)
+![](img/Python-logo-notext.svg%20(1).jpg)
